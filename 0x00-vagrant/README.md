@@ -1,1 +1,1 @@
-VAGRANT
+vgrant
